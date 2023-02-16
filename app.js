@@ -1,11 +1,11 @@
 const test = () => {
-  console.log('test')
+  console.log('test');
 }
 
-const sayHi = () => {
+const sayHi=()=>{
   console.log('Hi')
 }
 
 test()
 
-sayHi()
+sayHi();
