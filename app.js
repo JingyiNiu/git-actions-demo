@@ -1,9 +1,9 @@
 const test = () => {
-    console.log("test")
+  console.log('test')
 }
 
 const sayHi = () => {
-console.log("Hi")
+  console.log('Hi')
 }
 
 test()
